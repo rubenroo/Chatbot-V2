@@ -15,12 +15,14 @@ A rule-based chatbot using Python and NLTK chat module works by matching user in
 # What the chatbot can do
 The chatbot demonstrates the techniques mentioned above. The following questions are possible:
 
-- Say hello to the chatbot
-- Ask for tips in case of sleep problems
-- Ask to tell a joke
-- Thanks the chatbot 
-- Say goodby to the chatbot
-
+- my name is (.*)
+- what is your name ?
+- how are you ?
+- what (.*) want ?
+- (.*) created ?
+- how is weather in (.*)?
+-quit
+And more!
 
 # Why this project
 I have done the minor Real Fake, Real Impact. During the minor, I immersed myself in AI and Digital Humans. One of the topics was learning the basics of pyton. With the knowledge learned, I created 4 different chatbots. Each chatbot was built with different techniques and with a diffrent purpose.
