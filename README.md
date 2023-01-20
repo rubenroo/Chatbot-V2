@@ -1,5 +1,5 @@
 # Chatbot-V2
-This repository shows a chatbot built in Pyton with NLTK. I have developed an impressive rule-based chatbot using just Python and the NLTK library. The NLTK's chat module utilizes various regular expression patterns in the user's intent and produces the corresponding output. This chatbot was made with the help from [analyticsvidhya.com.](https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python-and-nltk/) 
+This repository shows a chatbot built in Pyton with NLTK. I have developed an impressive rule-based chatbot using just Python and the NLTK library. The NLTK's chat module utilizes various regular expression patterns in the user's intent and produces the corresponding output. This chatbot was made with a tutorial from [analyticsvidhya.com.](https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python-and-nltk/) 
 
 
 **Test it yourself:**
