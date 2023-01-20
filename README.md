@@ -19,7 +19,7 @@ The chatbot demonstrates the techniques mentioned above. The following questions
 - what (.*) want ?
 - (.*) created ?
 - how is weather in (.*)?
--quit
+- quit
 
 And more!
 
