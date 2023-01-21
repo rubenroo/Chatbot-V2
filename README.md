@@ -8,7 +8,7 @@ This repository shows a chatbot built in Pyton with NLTK. I have developed an im
 
 
 # How it works
-A rule-based chatbot using Python and NLTK chat module works by matching user input to predefined patterns and providing corresponding responses. The NLTK chat module provides a framework for defining these patterns and responses, making it easy to create a simple chatbot. When a user inputs something, the module compares it to the predefined patterns and generates an appropriate response. If no match is found, the chatbot may return a default response or ask for more information.
+A rule-based chatbot using Python and NLTK chat module works by matching user input to predefined patterns and providing corresponding responses. The NLTK chat module provides a framework for defining these patterns and responses, making it easy to create a simple chatbot. When a user inputs something, the module compares it to the predefined patterns and generates an appropriate response. If no match is found, the chatbot may return a default response or ask for more information.(this paragraph is generated with chatGPT)
 
 # What the chatbot can do
 The chatbot demonstrates the techniques mentioned above. The following questions are possible:
